@@ -1,0 +1,7 @@
+{
+  "name": "codeSEO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
